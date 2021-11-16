@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "home-management-system-server",
   "version": "0.1.0",
   "description": "Backend code for Home Management system",
   "main": "index.js",
